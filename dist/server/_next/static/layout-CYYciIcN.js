@@ -1,0 +1,1 @@
+var e={title:`Shalik Visual — Produkcja filmowa`,description:`Niezależny dom produkcyjny. Filmy reklamowe, dokumenty, podcasty, fotografia i postprodukcja. Poznaj nasze realizacje i studio.`};function t({children:e}){return e}export{t as default,e as metadata};
